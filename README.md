@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm [Chloe Lau](https://chloelau.me)
 
-<!--
-**chloelaucodes/chloelaucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final year Imperial Computing student, [DoCSoc](https://docsoc.co.uk)'s Treasurer and Marketing & Publicity Officer. I also am one of the leads of [IC Hack 20/22](https://ichack.org)! I work with [CanCLID](https://github.com/CanCLID) to help make Cantonese digital and accessible.
 
-Here are some ideas to get you started:
+🔭 I’m currently dabbling my hands into building an open sourced Cantonese input method/keyboard for my bachelors’ thesis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning more about ML and NN, as well a lot of Computational Linguistics
+
+🤔 I’m looking for help with Cantonese Jyutping Corpora Labelling!
+
+💬 Ask me about anything I contributed, or anyting random you think would be relevant!
+
+📫 How to reach me: [chloe.lau19@imperial.ac.uk](mailto:chloe.lau19@imperial.ac.uk)
+
+😄 Pronouns: she/her/佢/她
+
+⚡ Fun fact: I'm a PADI divemaster 🤿, and I love random things from the internet! 
+
+I contribute to my own and DoCSoc's private repositories occasionally, that might explain some of the random private contributions!
