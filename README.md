@@ -4,7 +4,7 @@ I'm a final year Imperial Computing student, [DoCSoc](https://docsoc.co.uk)'s Tr
 
 🔭 I’m currently dabbling my hands into building an open sourced Cantonese input method/keyboard for my bachelors’ thesis.
 
-🌱 I’m currently learning more about ML and NN, as well a lot of Computational Linguistics
+🌱 I’m currently learning more about ML and NN, as well a lot of Computational Linguistics, also dabbling into UX and Design Engineering
 
 🤔 I’m looking for help with Cantonese Jyutping Corpora Labelling!
 
