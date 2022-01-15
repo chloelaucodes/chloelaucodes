@@ -15,5 +15,3 @@ I'm a final year Imperial Computing student, [DoCSoc](https://docsoc.co.uk)'s Tr
 😄 Pronouns: she/her/佢/她
 
 ⚡ Fun fact: I'm a PADI divemaster 🤿, and I love random things from the internet! 
-
-I contribute to my own and DoCSoc's private repositories occasionally, that might explain some of the random private contributions!
