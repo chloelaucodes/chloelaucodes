@@ -8,7 +8,7 @@ I'm a final year Imperial Computing student, [DoCSoc](https://docsoc.co.uk)'s Tr
 
 🤔 I’m looking for help with Cantonese Jyutping Corpora Labelling!
 
-💬 Ask me about anything I contributed, or anyting random you think would be relevant!
+💬 Ask me about anything I contributed, or anything random you think would be relevant!
 
 📫 How to reach me: [chloe.lau19@imperial.ac.uk](mailto:chloe.lau19@imperial.ac.uk)
 
